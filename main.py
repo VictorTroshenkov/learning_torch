@@ -14,3 +14,11 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+def euclid_dist(array_1: torch.Tensor, array_2: torch.Tensor) -> torch.Tensor:
+    """
+
+    :param array_1:
+    :param array_2:
+    :return:
+    """
